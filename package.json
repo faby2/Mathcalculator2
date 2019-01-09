@@ -1,16 +1,24 @@
 {
   "name": "mathcalculator",
   "version": "1.1.0",
-  "description": "this is Math controler example using cordova plugin",
+  "description": "tet plugin ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faby2/Mathcalculator2.git"
   },
   "keywords": [
     "Math",
     "calculator",
     "Ionic"
   ],
-  "author": "Fabrice rav",
-  "license": "ISC"
+  "author": "fabrice rav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faby2/Mathcalculator2/issues"
+  },
+  "homepage": "https://github.com/faby2/Mathcalculator2#readme"
 }
